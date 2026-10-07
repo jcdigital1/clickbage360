@@ -1,0 +1,7 @@
+{
+  "name": "CLICKBAGE 360° - Experiências para Eventos",
+  "description": "Biosite oficial CLICKBAGE 360°. Plataforma 360°, experiências fotográficas e locação para casamentos, formaturas e eventos inesquecíveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
