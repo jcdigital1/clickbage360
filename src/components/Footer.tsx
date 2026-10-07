@@ -1,6 +1,6 @@
 import React from 'react';
 import { WhatsAppIcon } from './WhatsAppIcon';
-import { MapPin, Phone, Instagram } from 'lucide-react';
+import { MapPin, Phone } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   const WHATSAPP_URL = 'https://wa.link/h7lv8m';
